@@ -65,7 +65,7 @@ export class LineChartComponent implements OnInit {
     this.chartData.push({
       data: dataset
     })
-    debugger
+    // debugger
   }
 
 

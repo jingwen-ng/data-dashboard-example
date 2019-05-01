@@ -87,7 +87,7 @@ export class PieChartComponent implements OnInit {
     this.chartData.push({
       data: dataset
     })
-    debugger
+    // debugger
   }
 
 }
